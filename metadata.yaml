@@ -1,0 +1,32 @@
+_repo: The-Complete-Angler-1653_9198
+_version: 0.0.1
+alternative_title: The Compleat Angler
+creator:
+  author:
+    agent_name: Walton, Izaak
+    aliases:
+    - Walton, Isaak
+    - Walton, Izaac
+    - Walton, I. (Izaak)
+    - Walton, Izaack
+    - Walton, Isaac
+    birthdate: 1593
+    deathdate: 1683
+    gutenberg_agent_id: '350'
+    url: http://www.gutenberg.org/2009/agents/350
+    wikipedia: http://en.wikipedia.org/wiki/Izaak_Walton
+description: ''
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9198'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fishing -- Early works to 1800'
+- !lcc 'SH'
+- GITenberg
+title: The Complete Angler 1653
+url: http://www.gutenberg.org/ebooks/9198
