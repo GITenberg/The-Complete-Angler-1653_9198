@@ -1,6 +1,9 @@
 _repo: The-Complete-Angler-1653_9198
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: The Compleat Angler
+covers:
+- cover_type: archival
+  image_path: 9198-h/images/cover.jpg
 creator:
   author:
     agent_name: Walton, Izaak
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/350
     wikipedia: http://en.wikipedia.org/wiki/Izaak_Walton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9198#The-Complete-Angler-1653
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
 identifiers:
